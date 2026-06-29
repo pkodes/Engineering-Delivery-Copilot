@@ -1,0 +1,14 @@
+# Builder output (regenerated on every build)
+workspace/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local env
+.env
+
+# SQLite DBs created at runtime
+*.db

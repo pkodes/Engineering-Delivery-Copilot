@@ -1,4 +1,4 @@
-# Engineering Delivery Copilot
+# Vibe Engineering
 
 ## Problem
 
@@ -15,7 +15,7 @@ This process often takes days and requires coordination across multiple stakehol
 
 ## Solution
 
-Engineering Delivery Copilot is a multi-agent system that converts a business idea into an engineering-ready delivery package.
+Vibe Engineering is a multi-agent system that converts a business idea into an engineering-ready delivery package.
 
 Specialized AI agents collaborate to:
 
